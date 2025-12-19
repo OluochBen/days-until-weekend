@@ -49,10 +49,14 @@ console.log(daysUntilWeekend("2025-01-18"));
 ```
 
 ## Project Structure
+``` code
 your-repo/
 │── daysUntilWeekend.js
 │── README.md
-│── License
+│── LICENSE
+│── test.js
+```
+
 
 ## Contributing
 
